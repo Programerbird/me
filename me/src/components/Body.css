@@ -1,0 +1,14 @@
+.bwrapper{
+    /* background-color: blue; */
+    width: 30%;
+    padding-bottom: 20px;
+    color: aliceblue;
+    padding-top: 10px;
+}
+
+.friends{
+    display: flex;
+    text-align: center;
+    gap: 10px;
+    
+}
