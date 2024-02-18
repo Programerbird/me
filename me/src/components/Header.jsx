@@ -14,6 +14,7 @@ function Header() {
             <a href='#' >Chat</a>
             <a href='#' >Anime</a>
             <a href='#' >Manga</a>
+            <a href='#' >Manga</a>
            </div>
         <div className='search' >
           <SearchIcon></SearchIcon>
