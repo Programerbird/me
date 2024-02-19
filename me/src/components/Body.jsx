@@ -7,6 +7,7 @@ import f3 from '../frimage/f3.jpg'
 import f4 from '../frimage/f4.jpg'
 import f5 from '../frimage/f5.jpg'
 import green from '../image/green.png'
+
 function Body() {
   return (
     <div className='bwrapper'>
