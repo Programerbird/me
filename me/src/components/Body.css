@@ -1,6 +1,6 @@
 .bwrapper{
-    background-color: blue;
-    width: 30%;
+    /* background-color: blue; */
+    width: 20%;
     padding-bottom: 20px;
     color: aliceblue;
     padding-top: 10px;
@@ -13,5 +13,6 @@
     text-align: center;
     gap: 10px;
     color: black;
-   
+    justify-content:flex-start;
+    flex-direction: column;
 }
