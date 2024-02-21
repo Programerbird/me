@@ -16,7 +16,7 @@ function App() {
         <Router>
         <NavBar/>
           <Routes>
-            {/* <Route path='' element={<Body/>} ></Route> */}
+            <Route path='' element={<Body/>} ></Route>
           </Routes>
         </Router>
       </div>

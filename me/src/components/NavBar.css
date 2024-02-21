@@ -1,0 +1,22 @@
+.buttons{
+    padding-right: 10px;
+
+}
+
+@media screen and (max-width: 1000px){
+    .buttons{
+        padding-bottom: 10px;
+    }
+}
+
+.avatar2{
+    padding-left: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+    .avatar2{
+       padding: 0px;
+       padding-top: 10px;
+        
+    }
+}

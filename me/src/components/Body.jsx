@@ -12,6 +12,8 @@ import Container from '@mui/material/Container';
 import Toolbar from '@mui/material/Toolbar';
 import AdbIcon from '@mui/icons-material/Adb';
 import Typography from '@mui/material/Typography';
+
+
 function Body() {
   return (
     <div className='bwrapper'>
@@ -27,14 +29,6 @@ function Body() {
       <p>22 Year old <br/>
          Art Student
       </p>
-     <Avatar className='avatar' alt="Remy Sharp" src={f2}  />
-     <p>Eva lizz</p> <img src={green} height={30} />
-     <Avatar className='avatar' alt="Remy Sharp" src={f3}  />
-     <p>Jack Lord</p> <img src={green} height={30} />
-     <Avatar className='avatar' alt="Remy Sharp" src={f4}  />
-     <p>Mike Kart</p> <img src={green} height={30} />
-     <Avatar className='avatar' alt="Remy Sharp" src={f5}  />
-     <p>Rose May</p> <img src={green} height={30} />
 
 
 {/* 
