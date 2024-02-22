@@ -24,13 +24,15 @@ function Body() {
 
 
      <div className='friends' >
-     <Avatar className='avatar' alt="Remy Sharp" src={fr1}  />
-      <span class="title">Emily Son</span>
-      <p>22 Year old <br/>
-         Art Student
-      </p>
-
-
+     <Avatar className='avatar' alt="Remy Sharp" src={f2}  />
+     <span style={{ marginLeft: '0px' }}>Emily Rose</span> 
+     <Avatar className='avatar' alt="Remy Sharp" src={f3}  />
+     <span style={{ marginLeft: '0px' }}>Luke Wolf</span> 
+     <Avatar className='avatar' alt="Remy Sharp" src={f4}  />
+     <span style={{ marginLeft: '0px' }}>Scot Rod</span> 
+     <Avatar className='avatar' alt="Remy Sharp" src={f5}  />
+     <span style={{ marginLeft: '0px' }}>Amy Wild</span> 
+     </div>
 {/* 
      <AppBar position="static">
       <Container maxWidth="xl">
@@ -155,7 +157,7 @@ function Body() {
     </AppBar> */}
 
 
-     </div>
+    
     </div>
   )
 }
