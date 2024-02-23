@@ -23,6 +23,9 @@ function Header() {
             Manga
           </Button>
            </div>
+           <Button variant="contained" color="success" style={{ width: "20px", height: "25px",}} >
+            Manga
+          </Button>
         <div className='search' >
             <div className="cool-search-bar">
               <input type="text" placeholder="Search..." />
